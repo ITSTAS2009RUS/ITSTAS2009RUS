@@ -26,7 +26,7 @@ I have been developing android for more than a year, during this time I have a m
 ![coroutines](https://img.shields.io/badge/COROUTINES%20%20-8A2BE2?color=pink&logo=coroutines)
 ![mvvvm](https://img.shields.io/badge/MVVM%20%20-8A2BE2?color=green&logo=coroutines)
 ![room](https://img.shields.io/badge/ROOM%20%20-8A2BE2?color=red&logo=coroutines)
- and more...
+ and more... 
 
 ![lobanov](https://github.com/ITSTAS2009RUS/ITSTAS2009RUS/assets/124933877/95127899-a682-4890-8e7c-14e32d06572e)
 
