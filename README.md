@@ -15,7 +15,7 @@ My additional languages:
 My name is Stanislav, I am a Russian android developer, former backend developer.
 I also have a YouTube channel where I shoot postironic content about programming.
 
-![stats](https://github-readme-stats.vercel.app/api?username=ITSTAS2009RUS&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Logcat78&show_icons=true)
 
 
 I have been developing android for more than a year, during this time I have a main stack of technologies:
